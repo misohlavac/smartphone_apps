@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.tutorialspoint.onlineviewer"
+        version   = "1.0">
+
+    <name>Tutorials Point</name>
+
+    <description>
+        Tutorials Point Online Viewer
+    </description>
+
+    <author href="http://tutorialspoint.com" email="contact@tutorialspoint.com">
+        Tutorials Point
+    </author>
+
+    <preference name="permissions" value="none"/>
+
+
+    <icon src="res/icon/android/drawable-ldpi/reask_icon.png" gap:platform="android" gap:qualifier="ldpi" />
+    <icon src="res/icon/android/drawable-mdpi/reask_icon.png" gap:platform="android" gap:qualifier="mdpi" />
+    <icon src="res/icon/android/drawable-hdpi/reask_icon.png" gap:platform="android" gap:qualifier="hdpi" />
+    <icon src="res/icon/android/drawable-xhdpi/reask_icon.png" gap:platform="android" gap:qualifier="xhdpi" />
+    <icon src="res/icon/android/drawable-xxhdpi/reask_icon.png" gap:platform="android" gap:qualifier="xxhdpi" />
+    
+
+</widget>
